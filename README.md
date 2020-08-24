@@ -48,7 +48,7 @@
   - Instantly see what your changes look like in the browser as you create them.
 * Font Awesome integration
   - Easily add your favourite icons
-* Tailwind CSS styling
+* Uses Tailwind CSS a highly customizable CSS framework
 * Prettier code formatting 
   - Consistent code style and linting 
 * Twitter style testimonials 
