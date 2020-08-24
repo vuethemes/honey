@@ -49,8 +49,10 @@
 * Font Awesome integration
   - Easily add your favourite icons
 * Tailwind CSS styling
-* Optimized with clean code and organized structure
+* Prettier code formatting 
+  - Consistent code style and linting 
 * Twitter style testimonials 
+* PostCSS for increased code readability
 * Component driven development 
 * One click Vercel/Netlify deployments
 * Free updates  
@@ -96,74 +98,26 @@ We've tried our best to develop this theme using a logical component driven stru
 ┃ ┗ index.html
 ┣ src/
 ┃ ┣ assets/
-┃ ┃ ┣ css/
-┃ ┃ ┃ ┗ style.css
+┃ ┃ ┣ fonts/
 ┃ ┃ ┣ images/
-┃ ┃ ┣ videos/
 ┃ ┣ components/
-┃ ┃ ┣ common/
-┃ ┃ ┃ ┣ Button.vue
-┃ ┃ ┃ ┣ CTA.vue
-┃ ┃ ┃ ┣ DoubleTextButton.vue
-┃ ┃ ┃ ┣ DrawerNav.vue
-┃ ┃ ┃ ┣ FooterSaleBox.vue
-┃ ┃ ┃ ┣ HeaderCart.vue
-┃ ┃ ┃ ┣ LimitedButton.vue
-┃ ┃ ┃ ┣ LogoBlack.vue
-┃ ┃ ┃ ┣ LogoWhite.vue
-┃ ┃ ┃ ┣ PopupPhone.vue
-┃ ┃ ┃ ┣ SectionDownArrow.vue
-┃ ┃ ┃ ┣ SidebarCartDrawer.vue
-┃ ┃ ┃ ┣ Socials.vue
-┃ ┃ ┃ ┣ TextButton.vue
-┃ ┃ ┃ ┣ ThemeFooter.vue
-┃ ┃ ┃ ┣ ThemeHeader.vue
-┃ ┃ ┃ ┗ ZipCodeBox.vue
-┃ ┃ ┣ sections/
-┃ ┃ ┃ ┣ AboutAccordionItem.vue
-┃ ┃ ┃ ┣ CompareKits.vue
-┃ ┃ ┃ ┣ CompareKitsItem.vue
-┃ ┃ ┃ ┣ ContactForm.vue
-┃ ┃ ┃ ┣ FaqAccordion.vue
-┃ ┃ ┃ ┣ HeroBanner.vue
-┃ ┃ ┃ ┣ HomeKitDetails.vue
-┃ ┃ ┃ ┣ HomeKitsDetailsItems.vue
-┃ ┃ ┃ ┣ HomeTextMessage.vue
-┃ ┃ ┃ ┣ InstagramFeed.vue
-┃ ┃ ┃ ┣ OrderAccordionItem.vue
-┃ ┃ ┃ ┣ OurFaq.vue
-┃ ┃ ┃ ┣ OurKits.vue
-┃ ┃ ┃ ┣ OurKitsItems.vue
-┃ ┃ ┃ ┣ OurMission.vue
-┃ ┃ ┃ ┣ OurStoryExpert.vue
-┃ ┃ ┃ ┣ OurStoryHero.vue
-┃ ┃ ┃ ┣ OurStoryStars.vue
-┃ ┃ ┃ ┣ PartnerAccordionItem.vue
-┃ ┃ ┃ ┣ PlpItems.vue
-┃ ┃ ┃ ┣ PlpProduct.vue
-┃ ┃ ┃ ┣ ProductAccordionItem.vue
-┃ ┃ ┃ ┣ TakeQuiz.vue
-┃ ┃ ┃ ┗ TextUs.vue
-┃ ┃ ┗ sliders/
-┃ ┃ ┃ ┣ BragbarSlider.vue
-┃ ┃ ┃ ┣ CollectionSlider.vue
-┃ ┃ ┃ ┣ FaqContentSlider.vue
-┃ ┃ ┃ ┣ FaqSlider.vue
-┃ ┃ ┃ ┣ InstagramSlider.vue
-┃ ┃ ┃ ┣ OurStorySlider.vue
-┃ ┃ ┃ ┗ TestimonialSlider.vue
-┃ ┣ pages/
-┃ ┃ ┣ Collections.vue
-┃ ┃ ┣ Contact.vue
-┃ ┃ ┣ Faq.vue
-┃ ┃ ┣ Home.vue
-┃ ┃ ┣ OurStory.vue
-┃ ┃ ┗ ProductSingle.vue
-┃ ┣ store/
-┃ ┃ ┗ store.js
+┃ ┃ ┣ CreateDashboard.vue
+┃ ┃ ┣ Dashboard.vue
+┃ ┃ ┣ Footer.vue
+┃ ┃ ┣ Navbar.vue
+┃ ┃ ┣ ReviewCard.vue
+┃ ┃ ┗ ReviewCarousel.vue
+┃ ┣ router/
+┃ ┃ ┗ index.js
+┃ ┣ tailwind/
+┃ ┃ ┗ index.js
+┃ ┣ views/
+┃ ┃ ┗ Home.vue
 ┃ ┣ App.vue
-┃ ┣ main.js
-┃ ┗ routes.js
+┃ ┗ main.js
+┣ .browserslistrc
+┣ .eslintrc.js
+┣ .prettierrc
 ┣ README.md
 ┣ babel.config.js
 ┣ package.json
@@ -180,6 +134,8 @@ This software uses the following open source packages:
 - [npm](https://www.npmjs.com/)
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Babel](https://babeljs.io/)
+- [PostCSS](https://postcss.org/)
+- [Prettier](https://prettier.io/docs/en/configuration.html)
 
 
 ## 📫&nbsp; Have a question? Want to chat? Ran into a problem?
