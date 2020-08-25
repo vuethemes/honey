@@ -30,6 +30,7 @@
 
 <p align="center">
   <a href="#key-features">Key Features</a> •
+  <a href="#lighthouse">Lighthouse</a> •
   <a href="#how-to-use">How To Use</a> •
   <a href="#download">Download</a> •
   <a href="#structure">Structure</a> •
@@ -39,15 +40,21 @@
   <a href="#contributing">Contributing</a>
 </p>
 
-![screenshot](https://github.com/vuethemes/honey/blob/master/honeyVueThemes.gif)
+<p align="center">
+  <br>
+    <a href="https://vuethemes.org/theme/honey">
+  <img width=60% src="https://github.com/vuethemes/honey/blob/master/honeyVueThemes.gif" alt="Honey Preview"></a> <br>
+  <br>
+  <img width=60% src="https://github.com/vuethemes/honey/blob/master/honeyLighthouseScreenshot.png" alt="Honey Lighthouse Scores"></a> <br>
+  <br>
+</p>
 
 
 ## ✅&nbsp; Key Features
 
 * Hot Reload - Make changes, See changes
   - Instantly see what your changes look like in the browser as you create them.
-* Font Awesome integration
-  - Easily add your favourite icons
+* Fast 95+ Lighthouse Scores
 * Uses Tailwind CSS a highly customizable CSS framework
 * Prettier code formatting 
   - Consistent code style and linting 
@@ -59,6 +66,16 @@
   - Get access to the first version today, plus new updates until we're out of ideas.
 * World class support by us! 
   - Reach out any time we are here to help! 
+
+## 🏆&nbsp; Lighthouse 
+
+<p align="center">
+  <br>
+    <a href="https://vuethemes.org/theme/honey">
+     <img width=60% src="https://github.com/vuethemes/honey/blob/master/honeyLighthouseScreenshot.png" alt="Honey Lighthouse Score screenshot"></a> <br>
+  <img width=60% src="https://github.com/vuethemes/honey/blob/master/honeyLighthouse.gif" alt="Honey Lighthouse Score gif"></a> <br>
+  <br>
+</p>
 
 
 ## 🚀&nbsp; How To Use
