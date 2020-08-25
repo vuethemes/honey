@@ -45,8 +45,6 @@
     <a href="https://vuethemes.org/theme/honey">
   <img width=60% src="https://github.com/vuethemes/honey/blob/master/honeyVueThemes.gif" alt="Honey Preview"></a> <br>
   <br>
-  <img width=60% src="https://github.com/vuethemes/honey/blob/master/honeyLighthouseScreenshot.png" alt="Honey Lighthouse Scores"></a> <br>
-  <br>
 </p>
 
 
