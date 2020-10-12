@@ -104,43 +104,6 @@ $ npm run lint
 
 Here is where you can [download](https://vuethemes.org/theme/honey) the latest installable version of Honey.
 
-## 🌲&nbsp; Structure
-
-We've tried our best to develop this theme using a logical component driven structure that is easy to customize. The following section shows the theme files, structure, and plugins.
-
-<pre>
-┣ public/
-┃ ┣ favicon.ico
-┃ ┗ index.html
-┣ src/
-┃ ┣ assets/
-┃ ┃ ┣ fonts/
-┃ ┃ ┣ images/
-┃ ┣ components/
-┃ ┃ ┣ CreateDashboard.vue
-┃ ┃ ┣ Dashboard.vue
-┃ ┃ ┣ Footer.vue
-┃ ┃ ┣ Navbar.vue
-┃ ┃ ┣ ReviewCard.vue
-┃ ┃ ┗ ReviewCarousel.vue
-┃ ┣ router/
-┃ ┃ ┗ index.js
-┃ ┣ tailwind/
-┃ ┃ ┗ index.js
-┃ ┣ views/
-┃ ┃ ┗ Home.vue
-┃ ┣ App.vue
-┃ ┗ main.js
-┣ .browserslistrc
-┣ .eslintrc.js
-┣ .prettierrc
-┣ README.md
-┣ babel.config.js
-┣ package.json
-┣ postcss.config.js
-┗ tailwind.config.js
-</pre>
-
 ## 👍&nbsp; Credits
 
 This software uses the following open source packages:
@@ -162,7 +125,7 @@ Feel free to file an [issue](https://github.com/vuethemes/honey/issues). If you'
 
 ## 📘&nbsp; License
 
-You are free to use SaaS for your personal or client projects. Check out the full license [here](https://coda.io/d/Vue-Themes-License_d8I2oOLBNlz).
+You are free to use Honey for your personal or client projects. Check out the full license [here](https://coda.io/d/Vue-Themes-License_d8I2oOLBNlz).
 
 ## 💚&nbsp; Contributing & Partnerships
 
