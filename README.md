@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align="center">Honey is the perfect Vue.js + Tailwind CSS theme template for entrepreneurs, web developers and other creatives to show off an awesome saas, startup or business. ✨&nbsp; We made it easy to start taking action with organized directory structure and component driven development.</h4>
+<h4 align="center">Honey is the perfect Vue and Tailwind CSS theme template for an awesome saas startup or business and convert browsers to customers. ✨&nbsp; We made it easy to start taking action with organized directory structure and component driven development.</h4>
 
 <p align="center">
   <a href="https://img.shields.io/badge/">
