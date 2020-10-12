@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align="center">Honey is the perfect Vue and Tailwind CSS theme template for an awesome saas startup or business and convert browsers to customers. ✨&nbsp; We made it easy to start taking action with organized directory structure and component driven development.</h4>
+<h4 align="center">Convert browsers to customers using Honey, a pratical Vue and Tailwind CSS theme template for an awesome saas, startup or idea. ✨&nbsp; We made it easy to start taking action with organized directory structure and component driven development. Like what you see? Visit <a href="https://vuethemes.org"> our website</a> for a curated showcase of awesome community starters, boilerplates, templates as well as free and premium themes. </h4>
 
 <p align="center">
   <a href="https://img.shields.io/badge/">
